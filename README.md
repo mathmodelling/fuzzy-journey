@@ -19,5 +19,5 @@ Here you will find scripts for:
 
 All scripts were developed to work in a chain starting from raw data and finishing with a gauged territory's water balance. All scripts are provided as is; use them under your own responsibility.
 
-<span id="1">¹</span> Rozhdenstvenskiy, A. V., & Chevotariov, A. I. (1974). Statistical methods in hydrology (Z. M. Kozhina (ed.)). Guidrometeoizdat..[⏎](#a1)<br>
+
 

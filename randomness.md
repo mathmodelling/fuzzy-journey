@@ -22,3 +22,4 @@
   
   We will show how we can use this suite to check the randomness of hydrometeorological time series or validate the randomness of hydrometeorological monthly or daily data sets.
   
+<span id="1">¹</span> Rozhdenstvenskiy, A. V., & Chevotariov, A. I. (1974). Statistical methods in hydrology (Z. M. Kozhina (ed.)). Guidrometeoizdat..[⏎](#a1)<br>

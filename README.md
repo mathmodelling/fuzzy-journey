@@ -6,24 +6,7 @@ This repository contains support scripts for statistical analysis of hydrometeor
 
 Here you will find scripts for:
 
-  ## Randomness analysis
-  * My own script version of the Runs Test
-  
-  This version is based on the descriptions of the Runs Test presented in<span id="a1">[¹](#1)</span>
-
-
-  The Excel data to be read uses the following template:
-  
-  | Año |Col1|Col2|...|ColN|
-  | --- |--- |--- |---|--- |
-  | XXXX|XXXX|XXXX|...|XXXX|
-  | XXXX|XXXX|XXXX|...|XXXX|
-  | ... | ...| ...|...|... |
-  | XXXX|XXXX|XXXX|...|XXXX|
-  
-  Column titles should start at the firts row and first column. It will be usual for Col1, Col2, ..., ColN to be Months but, could be anything else. 
-  
-  * Using the RandomSuite
+ ## Randomness analysis
  ## Gap filling
  ## Fitting theoretical probability density curves
  ## Calculation of statistical moments

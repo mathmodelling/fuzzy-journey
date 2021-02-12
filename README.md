@@ -9,13 +9,14 @@ Here you will find scripts for:
   ## Randomness analysis
   * My own script version of the Runs Test
   
-  This version is based on the descriptions presented in [@Rozhdenstvenskiy:Revelation:1974] Th data to be read is located in an Excel file using the following template:
+  This version is based on the descriptions of the Runs Test presented in @Rozhdenstvenskiy:1974 Th data to be read is located in an Excel file using the following template:
   
-  Año  Col1 Col2  ... ColN
-  XXXX XXXX XXXX  ... XXXX
-  XXXX XXXX XXXX  ... XXXX 
-  ...  ...  ...   ... ...
-  XXXX XXXX XXXX  ... XXXX
+  | Año |Col1|Col2|...|ColN|
+  | --- |--- |--- |---|--- |
+  | XXXX|XXXX|XXXX|...|XXXX|
+  | XXXX|XXXX|XXXX|...|XXXX|
+  | ... | ...| ...|...|... |
+  | XXXX|XXXX|XXXX|...|XXXX|
   
   Column titles should start at the firts row and first column. It will be usual for Col1, Col2, ..., ColN to be Months but, could be anything else. 
   
@@ -30,6 +31,7 @@ Here you will find scripts for:
 
 All scripts were developed to work in a chain starting from raw data and finishing with a gauged territory's water balance. All scripts are provided as is; use them under your own responsibility.
 
+<!-- REFERENCES -->
 
 @book{Rozhdenstvenskiy1974,
 address = {Leningrad},

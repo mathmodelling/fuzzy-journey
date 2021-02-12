@@ -9,7 +9,7 @@ Here you will find scripts for:
   ## Randomness analysis
   * My own script version of the Runs Test
   
-  This version is based on the descriptions of the Runs Test presented in [^fn1] The Excel data to be read uses the following template:
+  This version is based on the descriptions of the Runs Test presented in [^fn1]. The Excel data to be read uses the following template:
   
   | Año |Col1|Col2|...|ColN|
   | --- |--- |--- |---|--- |

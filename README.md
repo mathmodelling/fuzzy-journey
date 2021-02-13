@@ -6,16 +6,16 @@ This repository contains support scripts for statistical analysis of hydrometeor
 
 Here you will find scripts for:
 
- ## [Randomness analysis](https://github.com/mathmodelling/fuzzy-journey/blob/main/randomness.md)
- ## Gap filling
- ## Fitting theoretical probability density curves
- ## Calculation of statistical moments
- ## Hydrometeorological Teleconnections
- ## Secular cycles
- ## Spatial interpolation
- ## Water balance
+ ## 1. [Randomness analysis](https://github.com/mathmodelling/fuzzy-journey/blob/main/randomness.md)
+ ## 2. Gap filling
+ ## 3. Fitting theoretical probability density curves
+ ## 4. Calculation of statistical moments
+ ## 5. Hydrometeorological Teleconnections
+ ## 6. Secular cycles
+ ## 7. Spatial interpolation
+ ## 8. Water balance
  
- ## References
+ ## Disclaimer
 
 All scripts were developed to work in a chain starting from raw data and finishing with a gauged territory's water balance. All scripts are provided as is; use them under your own responsibility.
 

@@ -6,7 +6,7 @@ This repository contains support scripts for statistical analysis of hydrometeor
 
 Here you will find scripts for:
 
- ## Randomness analysis
+ ## [Randomness analysis](https://github.com/mathmodelling/fuzzy-journey/blob/main/randomness.md)
  ## Gap filling
  ## Fitting theoretical probability density curves
  ## Calculation of statistical moments

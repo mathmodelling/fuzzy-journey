@@ -2,7 +2,7 @@
 
 ***Work in Progress!***
 
-This repository contains support scripts for statistical analysis of hydrometeorological variables. Initially intended for teaching in the courses of Applied stochastic processes, Hydroclimatolgy,  Hydroclimatology and Climate Variability at Javeriana University.
+This repository contains support scripts for statistical analysis of hydrometeorological variables. Initially intended for teaching in the courses of Applied stochastic processes, Hydroclimatolgy,  Variabilidad Climática and Climate Variability at Javeriana University.
 
 Here you will find scripts for:
 

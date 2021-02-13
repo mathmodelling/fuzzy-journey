@@ -2,7 +2,7 @@
 
   ## My own script version of the Runs Test
   
-  This version is based on the descriptions of the Runs Test presented in<span id="a1">[¹](#1)</span>
+  This version is based on the descriptions of the Runs Test presented in Rozhdenstvenskiy (1974)<span id="a1">[¹](#1)</span>
 
 
   The Excel data to be read uses the following template:
